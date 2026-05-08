@@ -43,6 +43,6 @@
 
 我们备有各节点测试机，欢迎通过以下方式获取 **实时报价**、**测试 IP** 或 **Looking Glass**。
 
-*   **🌐 Telegram频道:** [@YourID](https://t.me/Node_Workshop)
-*   **✈️ Telegram群组:** [@YourID](https://t.me/YourID)
-*   **💬 Telegram联系人:** [@YourID](https://t.me/YourID)
+*   **🌐 Telegram频道:** [@收藏频道](https://t.me/Node_Workshop)
+*   **✈️ Telegram群组:** [@加入群组](https://t.me/NodeWorkshop)
+*   **💬 Telegram咨询:** [@售前售后](https://t.me/QAQWERTDFBOT)
