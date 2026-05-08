@@ -4,7 +4,7 @@
 [![Bandwidth](https://img.shields.io/badge/Capacity-1Gbps%20--%20100Gbps-brightgreen?style=for-the-badge)]()
 [![SLA](https://img.shields.io/badge/SLA-99.95%25-orange?style=for-the-badge)]()
 
-长期提供中国大陆境内各核心节点（如广东、江苏、上海、浙江等）的高品质大带宽机房资源，专为 CDN、流媒体、AI 算力及跨境加速业务提供极致稳健的网络底座。
+节点工坊-长期提供中国大陆境内各核心节点（如广东、江苏、上海、浙江等）的高品质大带宽机房资源，专为 CDN、流媒体、AI 算力及跨境加速业务提供极致稳健的网络底座。
 
 ---
 
